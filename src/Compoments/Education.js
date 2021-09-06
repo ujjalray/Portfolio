@@ -16,7 +16,7 @@ export default class Education extends Component {
                     <small className="date">2022-2025</small>
                     <h3 className="h5 date-title">Master of Computer Application(MCA)</h3>
                     <p>National Institute of Technology (NIT)
-                       ...., Tamil Nadu</p>
+                       Coming soon....</p>
                   </div>
                 </div>
 
@@ -34,7 +34,9 @@ export default class Education extends Component {
                   <div className="education-experience">
                     <small className="date">2016-2018</small>
                     <h3 className="h5 date-title">School</h3>
-                    <p>Sona pur B.k high school</p>
+                    <p>Sona pur B.k high school,
+                     Alipurduar,West Bengal
+                    </p>
                   </div>
                 </div>
               </div>

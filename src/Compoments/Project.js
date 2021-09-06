@@ -13,11 +13,11 @@ export default class Project extends Component {
 
 
 
-          <div className="col-md-4">
-          <img src="./assets/images/tudoApp.jpeg" className="img-responsive" alt="" />
-          <h3 className="h5">Tudu-App</h3>
-          <p>june 2021</p>
-        </div>
+            <div className="col-md-4">
+            <img src="./assets/images/tudoapp.jpeg" className="img-responsive" alt="" />
+            <h3 className="h5">Tudu-App</h3>
+             <p>june-2021</p>
+           </div>
 
 
 
@@ -26,14 +26,14 @@ export default class Project extends Component {
             <img src="./assets/images/postfilio.png" className="img-responsive" alt="" />
               
               <h3 className="h5">Portfolio-App</h3>
-              <p>August 2021
+              <p>August-2021
               </p>
             </div>
            
             <div className="col-md-4">
               <img src="./assets/images/img-04.jpg" className="img-responsive" alt="" />
-              <h3 className="h5">Denz for Nilon</h3>
-              <p>2021</p>
+              <h3 className="h5">Criptography traker App</h3>
+              <p>sep-2021</p>
             </div>
 
 

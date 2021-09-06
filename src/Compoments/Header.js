@@ -36,11 +36,11 @@ export default class Header extends Component {
                    </div>
                    <div className="col-md-8">
            
-                   <p >My name is ujjal ray.I was born in 2001. I live in west bengal . I’ve been a professional  full stack web developer for more than 1 years.
-                   I’ve mostly worked  with C, C++, Html ,css, and javascript  but also a little bit with Reactjs  ,Mysql and Note js.
-                   I’ve maked more than 5 Projects, mostly about Reactjs and Note js but also Html and css</p>
+                   <p >My name is ujjal ray.I was born in 2001. I live in west bengal . I’ve been a professional  full stack web developer.
+                   I’ve mostly worked  with C, C++, Html ,css,  javascript, and Reactjs  but also a little bit with   ,Mysql and Note js.
+                   I’ve maked more than 5 Projects, mostly about html,css,Reactjs  but also  Note js</p>
                    <p>My main interests are:
-                   <ul >
+                   <ul>
                   
                    <li>Database Management System (DBMS)</li>
                    <li>Mysql/MongoDB</li>
@@ -48,7 +48,7 @@ export default class Header extends Component {
                    <li>React js</li>
                    <li>Note js</li>
                    <li>Data Structure</li> 
-                   <li>Learning new programming languages</li> 
+                   
                
                   </ul>
                     

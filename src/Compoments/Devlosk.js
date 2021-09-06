@@ -14,7 +14,7 @@ export default class  extends Component {
                   <img src="./assets/images/React.png" className="img-responsive" alt="" />
                   
                   <h3 className="h5">Front-End</h3>
-                  <p >HTML,CSS,JAVASCRIPT,ES6,REACTJS,RADUX</p>
+                  <p >HTML,CSS,JAVASCRIPT,REACTJS,RADUX</p>
                 </div>
                 <div className="col-md-4">
                   <img src="./assets/images/note.png" className="img-responsive" alt="" />
@@ -24,7 +24,7 @@ export default class  extends Component {
                 <div className="col-md-4">
                   <img src="./assets/images/database.jpg" className="img-responsive" alt="" />
                   <h3 className="h5">Database</h3>
-                  <p>Mysql , MongDB</p>
+                  <p>Mysql,MongDB</p>
                 </div>
               </div>
             </div>
